@@ -1,1 +1,8 @@
-zk-create.sh: create note
+### prerequisite
+
+$ mkdir $HOME/zettelkasten
+
+### scripts
+
+- zk-create.sh: create note
+
