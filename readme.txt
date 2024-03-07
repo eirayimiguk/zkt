@@ -1,6 +1,6 @@
 ### prerequisite
 
-$ mkdir $HOME/zettelkasten
+export ZK_ROOT="path/to/zkt/zettelkasten"
 
 ### scripts
 
